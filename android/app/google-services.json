@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "611177811714",
+    "firebase_url": "https://navyug1-ddb0d-default-rtdb.firebaseio.com",
+    "project_id": "navyug1-ddb0d",
+    "storage_bucket": "navyug1-ddb0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611177811714:android:8f7cf969712a1824e0fc1b",
+        "android_client_info": {
+          "package_name": "com.example.kawach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFd3Wc-5ymmnmyWhI5hJlwE_7anvLrCao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

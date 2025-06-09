@@ -1,0 +1,2 @@
+/Users/roshannahak/Documents/projects/kawach/android/app/.cxx/RelWithDebInfo/3g3g3w1g/x86_64/CMakeFiles/edit_cache.dir
+/Users/roshannahak/Documents/projects/kawach/android/app/.cxx/RelWithDebInfo/3g3g3w1g/x86_64/CMakeFiles/rebuild_cache.dir

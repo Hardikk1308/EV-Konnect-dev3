@@ -1,0 +1,2 @@
+/Users/sujeetsoni/workspace/kawach-dev1/android/app/.cxx/Debug/5s103o36/x86_64/CMakeFiles/edit_cache.dir
+/Users/sujeetsoni/workspace/kawach-dev1/android/app/.cxx/Debug/5s103o36/x86_64/CMakeFiles/rebuild_cache.dir

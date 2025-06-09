@@ -1,0 +1,2 @@
+F:/App/kawach-main 1.1/kawach-dev1/android/app/.cxx/Debug/t2l3k5x2/x86_64/CMakeFiles/edit_cache.dir
+F:/App/kawach-main 1.1/kawach-dev1/android/app/.cxx/Debug/t2l3k5x2/x86_64/CMakeFiles/rebuild_cache.dir

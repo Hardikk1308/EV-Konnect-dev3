@@ -1,0 +1,2 @@
+E:/flutter/Flutter projects/EV-Konnect/android/app/.cxx/Debug/1a103t5y/x86_64/CMakeFiles/edit_cache.dir
+E:/flutter/Flutter projects/EV-Konnect/android/app/.cxx/Debug/1a103t5y/x86_64/CMakeFiles/rebuild_cache.dir
